@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="21"
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:translateY="1">
+        <!-- bell knob -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,21 A4,4 0 1 1 54,29 A4,4 0 1 1 54,21 Z" />
+        <!-- bell body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,28 C41.5,28 33,37.5 33,50 L33,58 L27,66 L27,69.5 L81,69.5 L81,66 L75,58 L75,50 C75,37.5 66.5,28 54,28 Z" />
+        <!-- bell clapper -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M45.5,73 A8.5,8.5 0 0 0 62.5,73 Z" />
+        <!-- "connected" badge -->
+        <path
+            android:fillColor="#43A047"
+            android:strokeColor="#1565C0"
+            android:strokeWidth="2.5"
+            android:pathData="M72,30 A10,10 0 1 1 72,50 A10,10 0 1 1 72,30 Z" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="2.8"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M67.5,40.5 L71,44 L77,36" />
+    </group>
+    <!-- IQOO lettering -->
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="2.6"
+        android:pathData="M36.1,69.5 L36.1,80.5" />
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="2.6"
+        android:pathData="M41.9,75 A3.2,4.2 0 1 1 48.3,75 A3.2,4.2 0 1 1 41.9,75 Z" />
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="2.6"
+        android:pathData="M46.3,76.8 L49.6,81" />
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="2.6"
+        android:pathData="M53.7,75 A3.2,4.2 0 1 1 60.1,75 A3.2,4.2 0 1 1 53.7,75 Z" />
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="2.6"
+        android:pathData="M65.5,75 A3.2,4.2 0 1 1 71.9,75 A3.2,4.2 0 1 1 65.5,75 Z" />
+</vector>
